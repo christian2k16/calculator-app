@@ -1,5 +1,5 @@
 
-# Calculator Class
+# Calculator Application
 JUnit Data Driven Testing With Assertions
 
 
